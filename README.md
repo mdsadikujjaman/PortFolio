@@ -1,12 +1,10 @@
 # 📊 Power BI Sales Dashboard - Beverage Brand Analysis
 
-### Dashboard Link : [Google Drive](https://drive.google.com/drive/folders/1MzxJsR0lJHdDwHgJ8LQSB6LxXzSwc4Ap?usp=sharing)
-
 This project showcases a dynamic **Sales Dashboard** created using **Microsoft Power BI** to analyze beverage brand performance across U.S. states. It provides actionable insights through interactive visuals and KPIs, enabling users to explore revenue, unit sales, and pricing trends over time.
 
 ## 🔍 Overview
 
-The dashboard provides a detailed breakdown of sales data for several beverage brands including:
+The dashboard provides a detailed breakdown of sales data for several beverage brands, including:
 - Coca-Cola
 - Dasani Water
 - Diet Coke
